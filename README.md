@@ -22,8 +22,8 @@ Welcome to my GitHub! I'm a passionate **Full Stack Developer and Computer Scien
 - Data Structures and Algorithms  
 
 📫 How to reach me:  
-- LinkedIn: (add your LinkedIn link here)  
-- Email: (add your email here)  
+- LinkedIn:https://www.linkedin.com/in/sanzuuu/
+- Email: sanjeevnikumari12@gmail.com  
 
 ⚡ Fun fact: I love turning ideas into real applications and continuously improving my coding skills 🚀  
 
@@ -84,9 +84,9 @@ I actively practice **Data Structures and Algorithms** to strengthen my programm
 
 ## 🌐 Connect with Me  
 
-💼 LinkedIn: https://www.linkedin.com/in/sanzuuu/
-🧩 LeetCode: https://leetcode.com/u/sanzu22/
-📨 Open to internships, collaborations, and developer opportunities  
+-💼 LinkedIn: https://www.linkedin.com/in/sanzuuu/
+-🧩 LeetCode: https://leetcode.com/u/sanzu22/
+-📨 Open to internships, collaborations, and developer opportunities  
 
 ---
 
